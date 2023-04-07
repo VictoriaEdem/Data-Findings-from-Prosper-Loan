@@ -5,13 +5,6 @@
 ## Dataset
 
  The data set is from Prosper and it initially contained 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. This [data dictionary](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) explained the variables in the data set. I did some data wrangling like changing the data type of some columns, and picking only columns I needed for the exploration I planned to do. After wrangling, the subset of the dataset had 77,543 loan listings and 19 variables. Some variables were numeric and others categorical.
- 
- 
-## Objectives
-
-> Supplement statistics with visualizations to build understanding of data.
-> Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing me to understand distributions of variables and relationships between features.
-> Use design principles to create effective visualizations for communicating findings to an audience.
 
 
 ## Summary of Findings
