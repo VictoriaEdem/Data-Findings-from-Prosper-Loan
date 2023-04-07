@@ -13,10 +13,10 @@ In Part II, Explanatory data visualization, I produce a short presentation that 
 ## Installation
 This project uses Python 3 and was completed through the Jupyter Notebooks IDE. I used the following libraries in this project:
 
-##### NumPy
-##### pandas
-##### Matplotlib
-##### Seaborn
+   * NumPy
+   * pandas
+   * Matplotlib
+   * Seaborn
 
 ## Dataset
 
@@ -37,5 +37,5 @@ The dataset initially contained 113,937 loans with 81 variables on each loan.  T
 
 ## Key Insights for Presentation
 
-##### For this presentation, I focus on the influence of a borrower's features (being a home owner, employment status, prosper score, loan term, etc) on loan amount given to borrowers. 
-##### I introduce the distribution of the Loan Amount variable, followed by the distribution of the loan status, bivariate exploration, and then multivariate exploration. 
+* For this presentation, I focus on the influence of a borrower's features (being a home owner, employment status, prosper score, loan term, etc) on loan amount given to borrowers. 
+* I introduce the distribution of the Loan Amount variable, followed by the distribution of the loan status, bivariate exploration, and then multivariate exploration. 
